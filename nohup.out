@@ -1,0 +1,239 @@
+Starting standalone
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at net.js:1147:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:448:13)
+Starting standalone
+Connect server listening at http://192.168.56.101:8080
+Using basic authentication
+CDN: version standalone initialized /opt/c9sdk/build
+Started '/opt/c9sdk/configs/standalone' with config 'standalone'!
+Cloud9 is up and running
+User saving /cloud9-service/manage-cloud9.sh
+Successfully saved /cloud9-service/manage-cloud9.sh
+User saving /cloud9-service/manage-cloud9.sh
+Successfully saved /cloud9-service/manage-cloud9.sh
+User saving /cloud9-service/manage-cloud9.sh
+Successfully saved /cloud9-service/manage-cloud9.sh
+Starting standalone
+Connect server listening at http://192.168.56.101:8080
+Using basic authentication
+CDN: version standalone initialized /opt/c9sdk/build
+Started '/opt/c9sdk/configs/standalone' with config 'standalone'!
+Cloud9 is up and running
+Starting standalone
+Connect server listening at http://192.168.56.101:8080
+Using basic authentication
+CDN: version standalone initialized /opt/c9sdk/build
+Started '/opt/c9sdk/configs/standalone' with config 'standalone'!
+Cloud9 is up and running
+Successfully saved /cloud9-service/manage-cloud9.sh
+Starting standalone
+Connect server listening at http://192.168.56.101:8080
+Using basic authentication
+CDN: version standalone initialized /opt/c9sdk/build
+Started '/opt/c9sdk/configs/standalone' with config 'standalone'!
+Cloud9 is up and running
+Starting standalone
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at net.js:1147:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:448:13)
+/opt/workspace/cloud9-service/stop-cloud9.sh: line 7: kill: (4334) - No such process
+/opt/workspace/cloud9-service/start-cloud9.sh: line 7:  4273 Killed                  node /opt/c9sdk/server.js -l $address -p 8080 -w /opt/workspace -a steve:steve
+Starting standalone
+Connect server listening at http://192.168.56.101:8080
+Using basic authentication
+CDN: version standalone initialized /opt/c9sdk/build
+Started '/opt/c9sdk/configs/standalone' with config 'standalone'!
+Cloud9 is up and running
+User saving /cloud9-service/manage-cloud9.sh
+Successfully saved /cloud9-service/manage-cloud9.sh
+User saving /cloud9-service/manage-cloud9.sh
+Successfully saved /cloud9-service/manage-cloud9.sh
+Starting standalone
+Connect server listening at http://192.168.56.101:8080
+Using basic authentication
+CDN: version standalone initialized /opt/c9sdk/build
+Started '/opt/c9sdk/configs/standalone' with config 'standalone'!
+Cloud9 is up and running
+User saving /cloud9-service/manage-cloud9.sh
+Successfully saved /cloud9-service/manage-cloud9.sh
+User saving /cloud9-service/cloud9.service
+Successfully saved /cloud9-service/cloud9.service
+./manage-cloud9.sh: line 3:  4483 Killed                  node /opt/c9sdk/server.js -l $address -p 8080 -w /opt/workspace -a steve:steve
+Starting standalone
+Connect server listening at http://192.168.56.101:8080
+Using basic authentication
+CDN: version standalone initialized /opt/c9sdk/build
+Started '/opt/c9sdk/configs/standalone' with config 'standalone'!
+Cloud9 is up and running
+cache /opt/c9sdk/build/standalone/skin/default/dark.css
+cache hit /opt/c9sdk/build/standalone/skin/default/dark.css
+5082: Error: ENOENT: no such file or directory, open '/opt/workspace/.c9/metadata/tab1'
+    at Error (native)
+User saving /cloud9-service/cloud9.service
+Successfully saved /cloud9-service/cloud9.service
+/opt/workspace/cloud9-service/stop-cloud9.sh: line 7: kill: (5135) - No such process
+/opt/workspace/cloud9-service/start-cloud9.sh: line 7:  5076 Killed                  node /opt/c9sdk/server.js -l $address -p 8080 -w /opt/workspace -a steve:steve
+Starting standalone
+Connect server listening at http://192.168.56.101:8080
+Using basic authentication
+CDN: version standalone initialized /opt/c9sdk/build
+Started '/opt/c9sdk/configs/standalone' with config 'standalone'!
+Cloud9 is up and running
+5663: Error: ENOTDIR: not a directory, stat '/opt/workspace/cloud9-service/Untitled/'
+    at Error (native)
+User saving /cloud9-service/manage-cloud9-service.sh
+Successfully saved /cloud9-service/manage-cloud9-service.sh
+User saving /cloud9-service/manage-cloud9.sh
+Successfully saved /cloud9-service/manage-cloud9.sh
+User saving /cloud9-service/manage-cloud9.sh
+Successfully saved /cloud9-service/manage-cloud9.sh
+User saving /cloud9-service/manage-cloud9.sh
+Successfully saved /cloud9-service/manage-cloud9.sh
+User saving /cloud9-service/start-cloud9.sh
+Successfully saved /cloud9-service/start-cloud9.sh
+User saving /cloud9-service/stop-cloud9.sh
+Successfully saved /cloud9-service/stop-cloud9.sh
+User saving /cloud9-service/start-cloud9.sh
+Successfully saved /cloud9-service/start-cloud9.sh
+User saving /cloud9-service/manage-cloud9.sh
+Successfully saved /cloud9-service/manage-cloud9.sh
+/opt/workspace/cloud9-service/start-cloud9.sh: line 7:  5657 Killed                  node /opt/c9sdk/server.js -l $address -p 8080 -w /opt/workspace -a steve:steve
+/opt/workspace/cloud9-service/start-cloud9.sh: line 8: e: command not found
+/opt/workspace/cloud9-service/stop-cloud9.sh: line 7: kill: (5990) - No such process
+Starting standalone
+Connect server listening at http://192.168.56.101:8080
+Using basic authentication
+CDN: version standalone initialized /opt/c9sdk/build
+Started '/opt/c9sdk/configs/standalone' with config 'standalone'!
+Cloud9 is up and running
+Starting standalone
+Connect server listening at http://192.168.56.101:8080
+Using basic authentication
+CDN: version standalone initialized /opt/c9sdk/build
+Started '/opt/c9sdk/configs/standalone' with config 'standalone'!
+Cloud9 is up and running
+Starting standalone
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at net.js:1147:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:448:13)
+Starting standalone
+Connect server listening at http://192.168.56.101:8080
+Using basic authentication
+CDN: version standalone initialized /opt/c9sdk/build
+Started '/opt/c9sdk/configs/standalone' with config 'standalone'!
+Cloud9 is up and running
+cache /opt/c9sdk/build/standalone/skin/default/dark.css
+cache hit /opt/c9sdk/build/standalone/skin/default/dark.css
+6617: Error: ENOENT: no such file or directory, open '/opt/workspace/.c9/metadata/tab1'
+    at Error (native)
+Starting standalone
+Connect server listening at http://192.168.56.101:8080
+Using basic authentication
+CDN: version standalone initialized /opt/c9sdk/build
+Started '/opt/c9sdk/configs/standalone' with config 'standalone'!
+Cloud9 is up and running
+User saving /cloud9-service/start-cloud9.sh
+Successfully saved /cloud9-service/start-cloud9.sh
+User saving /cloud9-service/cloud9.service
+Successfully saved /cloud9-service/cloud9.service
+Starting standalone
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at net.js:1147:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:448:13)
+cache /opt/c9sdk/build/standalone/skin/default/dark.css
+cache hit /opt/c9sdk/build/standalone/skin/default/dark.css
+6686: Error: ENOENT: no such file or directory, open '/opt/workspace/.c9/metadata/tab1'
+    at Error (native)
+Starting standalone
+Connect server listening at http://192.168.56.101:8080
+Using basic authentication
+CDN: version standalone initialized /opt/c9sdk/build
+Started '/opt/c9sdk/configs/standalone' with config 'standalone'!
+Cloud9 is up and running
+cache /opt/c9sdk/build/standalone/skin/default/dark.css
+cache hit /opt/c9sdk/build/standalone/skin/default/dark.css
+4362: Error: ENOENT: no such file or directory, stat '/opt/workspace/New Folder/'
+    at Error (native)
+4362: Error: ENOENT: no such file or directory, open '/opt/workspace/.c9/metadata/tab1'
+    at Error (native)
+Starting standalone
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at net.js:1147:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:448:13)
+Starting standalone
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at net.js:1147:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:448:13)
+Starting standalone
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: listen EADDRINUSE
+    at errnoException (net.js:905:11)
+    at Server._listen2 (net.js:1043:14)
+    at listen (net.js:1065:10)
+    at net.js:1147:9
+    at dns.js:72:18
+    at process._tickCallback (node.js:448:13)
+cache /opt/c9sdk/build/standalone/skin/default/dark.css
+cache hit /opt/c9sdk/build/standalone/skin/default/dark.css
+5681: Error: ENOENT: no such file or directory, open '/opt/workspace/.c9/metadata/tab1'
+    at Error (native)
+cache /opt/c9sdk/build/standalone/skin/default/dark.css
+cache hit /opt/c9sdk/build/standalone/skin/default/dark.css
+5681: Error: ENOENT: no such file or directory, open '/opt/workspace/.c9/metadata/tab1'
+    at Error (native)
+cache /opt/c9sdk/build/standalone/skin/default/dark.css
+cache hit /opt/c9sdk/build/standalone/skin/default/dark.css
+5681: Error: ENOENT: no such file or directory, open '/opt/workspace/.c9/metadata/tab1'
+    at Error (native)

@@ -1,0 +1,11 @@
+[Unit]
+Description=Manage Cloud 9 Service
+
+[Service]
+WorkingDirectory=/opt/workspace/cloud9-service
+Type=forking
+ExecStart=/opt/workspace/cloud9-service/manage-cloud9.sh start
+#ExecStop=/opt/workspace/cloud9-service/manage-cloud9.sh stop
+
+[Install]
+WantedBy=multi-user.target
